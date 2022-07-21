@@ -1,3 +1,5 @@
+//Me desculpem, infelizmente só consegui realizar esse teste.
+
 'use strict';
 
 const fs = require('fs');
